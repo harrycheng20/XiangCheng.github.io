@@ -20,7 +20,9 @@ My research interests including data mining and machine learning, now I am apply
 
 ## Work Experience 
 
+- ***Teaching Assistant***  in UESTC for Microelectronics Systems
 
+  ​	Mar 2018 - Jun 2018
 
 - ***Teaching Assistant***  in UESTC for C programing, 
 
@@ -30,7 +32,7 @@ My research interests including data mining and machine learning, now I am apply
 
   ​	Jul 2017 - Sept 2017
 
-- ***Research Intern*** in UESTC SMILE LAB
+- ***Research Assistant*** in UESTC SMILE LAB
 
   ​	Mar 2016 - Present
 
@@ -39,10 +41,8 @@ My research interests including data mining and machine learning, now I am apply
 ## Highlight Projects
 
 - MCI prediction from spontaneous spoken utterance (*NLP, Healthcare Analytics, Machine Learning*)
-
+- Semi-supervised Ensemble Learning (*Data Mining*)	
 - Artificial Neural Network Based Self Driving Vehicle (*Computer Vision, Machine Learning*)
-
 - Gender Prediction of the Micro-Blog User (*Text Mining, Social Network Analysis*)
-
 - Bionic hexapod robot (*Robotics, Control* )
 
