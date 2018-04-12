@@ -4,7 +4,7 @@ layout: default
 
 <br/><br/>
 
-# welcome
+# Welcome
 
 Hi, I am a final year undergraduate student from China, major in Electronic and Electrical Engineering at University of Electronic Science and Technology of China and University of Glasgow. 
 
@@ -18,7 +18,7 @@ My research interests including data mining and machine learning, now I am apply
 
 
 
-## work experience 
+## Work Experience 
 
 
 
@@ -38,10 +38,10 @@ My research interests including data mining and machine learning, now I am apply
 
 ## Highlight Projects
 
-- MCI prediction from spontaneous spoken utterance
+- MCI prediction from spontaneous spoken utterance (NLP, Healthcare Analytics, Machine Learning)
 
-- Artificial Neural Network Based Self Driving Vehicle
+- Artificial Neural Network Based Self Driving Vehicle (Computer Vision, Machine Learning)
 
-- Gender Prediction of the Micro-Blog User
+- Gender Prediction of the Micro-Blog User (Text Mining, Social Network Analysis)
 
-- Bionic hexapod robot
+- Bionic hexapod robot (Robotics, Controll )
