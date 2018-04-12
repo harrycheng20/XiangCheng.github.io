@@ -6,7 +6,7 @@ layout: default
 
 # Welcome
 
-Hi, I am a final year undergraduate student from China, major in Electronic and Electrical Engineering at University of Electronic Science and Technology of China and University of Glasgow. 
+Hi, I am a final year undergraduate student from China, major in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). 
 
 My research interests including data mining and machine learning, now I am applying for PhD program in computer science, you can find my **[CV](./assets/CV/English CV of Xiang CHENG.pdf)** here. 
 
@@ -38,10 +38,11 @@ My research interests including data mining and machine learning, now I am apply
 
 ## Highlight Projects
 
-- MCI prediction from spontaneous spoken utterance (NLP, Healthcare Analytics, Machine Learning)
+- MCI prediction from spontaneous spoken utterance (*NLP, Healthcare Analytics, Machine Learning*)
 
-- Artificial Neural Network Based Self Driving Vehicle (Computer Vision, Machine Learning)
+- Artificial Neural Network Based Self Driving Vehicle (*Computer Vision, Machine Learning*)
 
-- Gender Prediction of the Micro-Blog User (Text Mining, Social Network Analysis)
+- Gender Prediction of the Micro-Blog User (*Text Mining, Social Network Analysis*)
 
-- Bionic hexapod robot (Robotics, Controll )
+- Bionic hexapod robot (*Robotics, Control* )
+
