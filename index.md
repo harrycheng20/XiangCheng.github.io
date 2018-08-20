@@ -6,15 +6,17 @@ layout: default
 
 # Welcome
 
-Hi, I am a final year undergraduate student from China, major in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). 
+Hi, I am a  first year Computer Science PhD student in Virginia Tech. My research interests including large-scale machine learning and data mining, especially in *healthcare analytics and social network analysis*. 
 
-My research interests including data mining and machine learning, now I am applying for PhD program in computer science, you can find my **[CV](./assets/CV/English CV of Xiang CHENG.pdf)** here. 
+Before that,I got my bachelor degree with in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). During my undergraduate years, I got the **excellent graduate** title from UESTC and Sichuan Province Government.  I was also awarded the **National Scholarship** (China's highest-class scholarship for the top 1% students) for **Twice**. 
+
+ If you are interested in me, you can find my **[CV](./assets/CV/English CV of Xiang CHENG.pdf)** here. 
 
 
 
-`GPA: 3.93/4.0` 
+`Bachelor GPA: 3.93/4.0` 
 
-`Rank: 1/229`
+`Bachelor Rank: 1/229`
 
 
 
@@ -41,7 +43,7 @@ My research interests including data mining and machine learning, now I am apply
 ## Highlight Projects
 
 - MCI prediction from spontaneous spoken utterance (*NLP, Healthcare Analytics, Machine Learning*)
-- Semi-supervised Ensemble Learning (*Data Mining*)	
+	 Semi-supervised Ensemble Learning (*Data Mining*)	
 - Artificial Neural Network Based Self Driving Vehicle (*Computer Vision, Machine Learning*)
 - Gender Prediction of the Micro-Blog User (*Text Mining, Social Network Analysis*)
 - Bionic hexapod robot (*Robotics, Control* )
