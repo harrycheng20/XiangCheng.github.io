@@ -6,7 +6,7 @@ layout: default
 
 # Welcome
 
-Hi, I am a  first year Computer Science PhD student in Virginia Tech advised by [Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests including deep learning, security and data mining , especially in *healthcare analytics and social network analysis*. 
+Hi, I am a first year Computer Science PhD student in Virginia Tech since Fall 2018. My research interests including deep learning, security and data mining , especially in *interdisciplinary applications of security and deep learning*. 
 
 Before that,I got my bachelor degree with in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). During my undergraduate years, I got the **excellent graduate** title from UESTC and Sichuan Province Government.  I was also awarded the **National Scholarship** (China's highest-class scholarship for the top 1% students) for **Twice**. 
 
@@ -29,10 +29,6 @@ Before that,I got my bachelor degree with in Electronic and Electrical Engineeri
 - ***Teaching Assistant***  in UESTC for Microelectronics Systems
 
   ​	Mar 2018 - Jun 2018
-
-- ***Teaching Assistant***  in UESTC for C programing, 
-
-  ​	Sept 2017 - Dec 2017
 
 - ***Research Intern***  in Michigan State University
 
