@@ -6,9 +6,9 @@ layout: default
 
 # Welcome
 
-Hi, I am a first year Computer Science PhD student in Virginia Tech since Fall 2018. My research interests including deep learning, security and data mining , especially in *interdisciplinary applications of security and deep learning*. 
+Hi, I am a first year Computer Science PhD student in Virginia Tech since Fall 2018. My research interests include deep learning, security and data mining , especially in *interdisciplinary applications of security and deep learning*. 
 
-Before that,I got my bachelor degree with in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). During my undergraduate years, I got the **excellent graduate** title from UESTC and Sichuan Province Government.  I was also awarded the **National Scholarship** (China's highest-class scholarship for the top 1% students) for **Twice**. 
+Before that,I got my bachelor degree in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). During my undergraduate years, I got the **excellent graduate** title from UESTC and Sichuan Province Government.  I was also awarded the **National Scholarship** (China's highest-class scholarship for the top 1% students) for **Twice**. 
 
  If you are interested in me, you can find my **[CV](./assets/CV/English CV of Xiang CHENG.pdf)** here. 
 
