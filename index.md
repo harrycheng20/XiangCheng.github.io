@@ -35,7 +35,7 @@ Before that,I got my bachelor degree in Electronic and Electrical Engineering at
   ​	Mar 2016 - Jun 2018
 
 
-##Publications
+## Publications
 
 Jialin Tian, Yazhou Ren, **Xiang Cheng**. ” Stratified Feature Sampling for Semi-Supervised Ensemble Clustering.” In IEEE Access, 2019. 
 
@@ -49,7 +49,7 @@ Jialin Tian, Yazhou Ren, **Xiang Cheng**. ” Stratified Feature Sampling for Se
 - Bionic hexapod robot (*Robotics, Control* )
 
 
-##Teaching
+## Teaching
 
 In fall 2019, I am a graduate teaching assistant for [Computer Organization I, CS2505](http://courses.cs.vt.edu/~cs2505/fall2019/).
 
