@@ -6,15 +6,13 @@ layout: default
 
 # Welcome
 
-Hi, I am a second-year Computer Science PhD student in Virginia Tech since Fall 2018. My research interests include deep learning, security and data mining , especially in *interdisciplinary applications of security and deep learning*. 
+I am a second-year Computer Science PhD student in Virginia Tech since Fall 2018. I am advised by Prof. [Yaling Yang](https://www.faculty.ece.vt.edu/yyang8/index.html) and Prof. [Young (Yang) Cao](http://people.cs.vt.edu/~ycao/). My research interests include network security and privacy, secure localization, and machine learning. 
 
-Before that,I got my bachelor degree in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). During my undergraduate years, I got the **excellent graduate** title from UESTC and Sichuan Province Government.  I was also awarded the **National Scholarship** (China's highest-class scholarship for the top 1% students) for **Twice**. 
+Before that,I got my bachelor degree in Electronic and Electrical Engineering at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG). During my undergraduate years, I got the **excellent graduate** title from Sichuan Province Government and UESTC.  I was also awarded the **National Scholarship** (China's highest-class scholarship for the top 1% students) for **Twice**. 
 
  If you are interested in me, you can find my **[CV](./assets/CV/English CV of Xiang CHENG.pdf)** here. 
 
 
-
-`Bachelor GPA: 3.93/4.0` 
 
 `Bachelor Rank: 1/229`
 
