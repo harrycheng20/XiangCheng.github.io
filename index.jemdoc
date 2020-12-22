@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{index.html}
+= Xiang Cheng
+
+
+
+~~~
+{}{img_left}{xiang.png}{xiang}{269}{163}{IMGLINKTARGET}
+Xiang Cheng
+
+PhD Candidate
+
+[https://cs.vt.edu/ Computer Science Department]
+
+[https://vt.edu/ Virginia Tech]
+
+Email: xiangcheng@vt.edu 
+~~~
+
+== About Me
+
+I am a  Ph.D. candidate in the [https://cs.vt.edu/ Computer Science Department] at [https://vt.edu/ Virginia Tech] since 09/2018.
+I am advised by [https://www.faculty.ece.vt.edu/yyang8/index.html Prof. Yaling Yang] and co-advised by [http://people.cs.vt.edu/~ycao/ Prof. Young (Yang) Cao].
+My research covers a range of topics in Security and Privacy, Secure Localization, and Mobile Networks.
+
+I received my bachelor's degree as the top 1 student (among 240) from [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China] (UESTC) in 2018. 
+I also received a bachelor's degree with First-Class Honors from [https://www.gla.ac.uk/ University of Glasgow] (UoG) through the UESTC-UoG Joint Program in 2018.
+I was awarded the **excellent graduate** title from Sichuan Province Government and UESTC.  
+I was a visiting scholar at Michigan State University during the 2017 summer, advised by [https://jiayuzhou.github.io/ Prof. Jiayu Zhou]. 
+
+== News
+12\/12\/2020--- Our digital contact tracing paper is out! \n
+10\/23\/2020--- I have passed the qualifying process! \n
+10\/16\/2020--- One paper submitted to Usenix Security 2021.
+
+== Publications
+
+. \[arXiv\] *KHOVID: Interoperable Privacy Preserving Digital Contact Tracing* \[[https://arxiv.org/pdf/2012.09375.pdf PDF]\]\n
+    /Xiang Cheng/, Hanchao Yang, Archanaa S Krishnan, Patrick Schaumont, Yaling Yang \n
+\n
+. \[IEEE Access\] *Stratified Feature Sampling for Semi-Supervised Ensemble Clustering* \[[paper/stratified-paper.pdf PDF]\] \n
+Jialin Tian, Yazhou Ren, /Xiang Cheng/ \n
+
+== Teaching 
+Spring 2020---[https://courses.cs.vt.edu/cs2506/Spring2020/ Computer Organization II, CS2506] Teaching Assistant\n
+Fall 2019---[http://courses.cs.vt.edu/~cs2505/fall2019/ Computer Organization I, CS2505] Teaching Assistant\n
+Spring 2019---Security Analytics, CS5984 Teaching Assistant
+
