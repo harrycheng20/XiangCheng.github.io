@@ -1,5 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: title{Xiang Cheng | PhD Candidate CS@Virginia Tech}
+# jemdoc: analytics{UA-117455419-1}
 = Xiang Cheng
 
 
@@ -29,14 +30,15 @@ I was awarded the **excellent graduate** title from Sichuan Province Government 
 I was a visiting scholar at Michigan State University during the 2017 summer, advised by [https://jiayuzhou.github.io/ Prof. Jiayu Zhou]. 
 
 == News
-01\/21\/2021--- Our paper “Stars can tell: A Robust Method to Defend against GPS Spoofing Attacks Using Off-the-shelf Chipset” 
-is conditionally accepted to appear in USENIX Security 2021. Shout out to [https://www.shinan.info Shinan], 
+15 Feb 2021--- Our paper about GPS spoofing detection is accepted to appear in USENIX Security 2021. Shout out to [https://www.shinan.info Shinan], 
 [https://github.com/Hanchao-YANG Hanchao], [https://rtcl.eecs.umich.edu/yuanchao/ Yuanchao], Xiaoran, Ping, [https://filebox.ece.vt.edu/~kexiong6/ Curtis],  [https://gangw.cs.illinois.edu Prof. Wang], and [https://ece.vt.edu/people/profile/yang Prof. Yang]! \n
-12\/12\/2020--- Our digital contact tracing paper is out! \n
-10\/23\/2020--- I have passed the qualifying process! \n
+12 Dec 2020--- Our digital contact tracing paper is out! \n
+23 Oct 2020--- I have passed the qualifying process! \n
 
 == Publications
-
+. \[USENIX Security 2021\] *Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset* \[To Appear\]\n
+Shinan Liu, /Xiang Cheng/(co-first author), Hanchao Yang, Yuanchao Shu, Xiaoran Weng, Ping Guo, Kexiong (Curtis) Zeng, Gang Wang, Yaling Yang\n
+\n
 . \[arXiv\] *KHOVID: Interoperable Privacy Preserving Digital Contact Tracing* \[[https://arxiv.org/pdf/2012.09375.pdf PDF]\]\n
     /Xiang Cheng/, Hanchao Yang, Archanaa S Krishnan, Patrick Schaumont, Yaling Yang \n
 \n
